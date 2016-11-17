@@ -3,7 +3,7 @@
 /cache
 /administrator/cache
 /vendor
-
+/tests/_output
 
 /.idea/
 
